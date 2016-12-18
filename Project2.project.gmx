@@ -21,6 +21,7 @@
   <rooms name="rooms">
     <room>rooms\room1</room>
     <room>rooms\room0</room>
+    <room>rooms\room0_new</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
